@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'NotoSansKR-Regular';
+  src: url('NotoSansKR-Regular.eot?#iefix') format('embedded-opentype'),  url('NotoSansKR-Regular.otf')  format('opentype'),
+	     url('NotoSansKR-Regular.woff') format('woff'), url('NotoSansKR-Regular.ttf')  format('truetype'), url('NotoSansKR-Regular.svg#NotoSansKR-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
