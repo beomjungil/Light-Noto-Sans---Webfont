@@ -1,8 +1,8 @@
 
 @font-face {
   font-family: 'NotoSansKR';
-  src: local('Noto Sans Regular'), local('NotoSans-Regular'), url('https://cdn.rawgit.com/kattergil/Light-Noto-Sans---Webfont/af3677ca/NotoSansKR-Regular.eot?#iefix') format('embedded-opentype'),  url('https://cdn.rawgit.com/kattergil/Light-Noto-Sans---Webfont/af3677ca/NotoSansKR-Regular.otf')  format('opentype'),
-	     url('https://cdn.rawgit.com/kattergil/Light-Noto-Sans---Webfont/af3677ca/NotoSansKR-Regular.woff') format('woff'), url('https://cdn.rawgit.com/kattergil/Light-Noto-Sans---Webfont/af3677ca/NotoSansKR-Regular.ttf')  format('truetype'), url('https://cdn.rawgit.com/kattergil/Light-Noto-Sans---Webfont/af3677ca/NotoSansKR-Regular.svg#NotoSansKR-Regular') format('svg');
+  src: local('Noto Sans Regular'), local('NotoSans-Regular'), url('https://cdn.jsdelivr.net/gh/kattergil/Light-Noto-Sans---Webfont@af3677ca/NotoSansKR-Regular.eot?#iefix') format('embedded-opentype'),  url('https://cdn.rawgit.com/kattergil/Light-Noto-Sans---Webfont/af3677ca/NotoSansKR-Regular.otf')  format('opentype'),
+	     url('https://cdn.rawgit.com/kattergil/Light-Noto-Sans---Webfont/af3677ca/NotoSansKR-Regular.woff') format('woff'), url('https://cdn.rawgit.com/kattergil/Light-Noto-Sans---Webfont/af3677ca/NotoSansKR-Regular.ttf')  format('truetype'), url('https://cdn.jsdelivr.net/gh/kattergil/Light-Noto-Sans---Webfont@af3677ca/NotoSansKR-Regular.svg#NotoSansKR-Regular') format('svg');
   font-weight: 400;
   font-style: normal;
 }
@@ -10,8 +10,8 @@
 
 @font-face {
   font-family: 'NotoSansKR';
-  src: local('Noto Sans Black'), local('NotoSans-Black'), url('https://cdn.rawgit.com/kattergil/Light-Noto-Sans---Webfont/af3677ca/NotoSansKR-Black.eot?#iefix') format('embedded-opentype'),  url('https://cdn.rawgit.com/kattergil/Light-Noto-Sans---Webfont/af3677ca/NotoSansKR-Black.otf')  format('opentype'),
-	     url('https://cdn.rawgit.com/kattergil/Light-Noto-Sans---Webfont/af3677ca/NotoSansKR-Black.woff') format('woff'), url('https://cdn.rawgit.com/kattergil/Light-Noto-Sans---Webfont/af3677ca/NotoSansKR-Black.ttf')  format('truetype'), url('https://cdn.rawgit.com/kattergil/Light-Noto-Sans---Webfont/af3677ca/NotoSansKR-Black.svg#NotoSansKR-Black') format('svg');
+  src: local('Noto Sans Black'), local('NotoSans-Black'), url('https://cdn.jsdelivr.net/gh/kattergil/Light-Noto-Sans---Webfont@af3677ca/NotoSansKR-Black.eot?#iefix') format('embedded-opentype'),  url('https://cdn.rawgit.com/kattergil/Light-Noto-Sans---Webfont/af3677ca/NotoSansKR-Black.otf')  format('opentype'),
+	     url('https://cdn.rawgit.com/kattergil/Light-Noto-Sans---Webfont/af3677ca/NotoSansKR-Black.woff') format('woff'), url('https://cdn.rawgit.com/kattergil/Light-Noto-Sans---Webfont/af3677ca/NotoSansKR-Black.ttf')  format('truetype'), url('https://cdn.jsdelivr.net/gh/kattergil/Light-Noto-Sans---Webfont@af3677ca/NotoSansKR-Black.svg#NotoSansKR-Black') format('svg');
   font-weight: 900;
   font-style: normal;
 }
